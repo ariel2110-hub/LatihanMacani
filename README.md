@@ -1,0 +1,2 @@
+# LatihanMacani
+Latihan git dasar
